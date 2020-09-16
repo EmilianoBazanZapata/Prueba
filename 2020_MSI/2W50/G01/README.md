@@ -18,7 +18,7 @@
 <tr>
 <td align="center">111624</td>
 <td align="left">Bazan Zapata ,Emiliano</td>
-<td align="left"><a href="https://github.com/EmilianoBazanZapata">UsuarioGitHub</a></td>
+<td align="left"><a href="https://github.co/EmilianoBazanZapata">UsuarioGitHub</a></td>
 </tr>
 
 </tbody>
