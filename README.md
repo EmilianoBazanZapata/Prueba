@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td align="center">111623</td>
-<td align="left">Banuera, Aldana</td>
+<td align="left">Banuera, Aldana(LA CONEJO)</td>
 <td align="left"><a href="https://github.com/aldanaba97">UsuarioGitHub</a></td>
 </tr>
 
