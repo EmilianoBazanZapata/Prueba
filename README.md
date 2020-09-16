@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td align="center">111707</td>
-<td align="left">Paredes Cornelio,Karla Sheyla</td>
+<td align="left">Paredes Cornelio,Karla Sheyla (LA LOCA)</td>
 <td align="left"><a href="https://github.com/karlaCornelio">UsuarioGitHub</a></td>
 </tr>
 <tr>
