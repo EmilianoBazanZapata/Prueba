@@ -30,4 +30,4 @@
 - [ ] Entrega Tercera Parte
 
 ## Capturas de Trello :clipboard:
-- [ ] Capturas del tablero de Trello
+- [ ] Capturas del tablero de Trello 
