@@ -17,12 +17,12 @@
   
 <tr>
 <td align="center">111624</td>
-<td align="left">Bazan Zapata ,Emiliano (EL ACOSADOR)</td>
+<td align="left">Bazan Zapata ,Emiliano</td>
 <td align="left"><a href="https://github.com/EmilianoBazanZapata">UsuarioGitHub</a></td>
 </tr>
 <tr>
 <td align="center">111707</td>
-<td align="left">Paredes Cornelio,Karla Sheyla (LA LOCA)</td>
+<td align="left">Paredes Cornelio,Karla Sheyla</td>
 <td align="left"><a href="https://github.com/karlaCornelio">UsuarioGitHub</a></td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td align="center">111623</td>
-<td align="left">Banuera, Aldana(LA CONEJO)</td>
+<td align="left">Banuera, Aldana</td>
 <td align="left"><a href="https://github.com/aldanaba97">UsuarioGitHub</a></td>
 </tr>
 
